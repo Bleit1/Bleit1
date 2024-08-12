@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Bleit1
+- 👋 Hi, I’m Arseniy
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning in the university
-- 💞️ I’m looking to collaborate on the C++, Python, Java, Ruby
+- 💞️ I’m looking to collaborate on the C++, Python, Java
 - 📫 How to reach me to email: sinyaaristovich@gmail.com
-- 😄 Pronouns: male
-- ⚡ Fun fact: im 16 and i like writing sites, program
+
 
 <!---
 Bleit1/Bleit1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
