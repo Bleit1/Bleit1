@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Arseniy
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning in the university
-- 💞️ I’m looking to collaborate on the C++, Python, Java
-- 📫 How to reach me to email: sinyaaristovich@gmail.com
+- 🌱 I’m currently learning by myself
+- 💞️ I’m looking to collaborate on the C#
+- 📫 How to reach me to email: arseniyaristov07@gmail.com
 
 
 <!---
