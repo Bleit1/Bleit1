@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arseniy
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning by myself
-- 💞️ I’m looking to collaborate on the C#
+- 🌱 I’m currently learning in Mate academy
+- 💞️ I’m looking to collaborate on the Python
 - 📫 How to reach me to email: arseniyaristov07@gmail.com
 
 
